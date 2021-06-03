@@ -1,0 +1,70 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=03b0b6e3_002D47eb_002D4ead_002Db0c3_002Dbb2bb4f35f48/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateStringMultipleNumbers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=247c188d_002D861c_002D4984_002Dbbd3_002D146ef0902b1d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateStringZero #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringZero&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e8537a8_002D25cd_002D45df_002Dbf78_002D14b4c3f86a90/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringMultpleNumbers&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringNumber&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringZero&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringMultipleNumbers&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3e1eb017_002D1e8a_002D429c_002D8f4c_002Dfd4144669925/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringMultpleNumbers&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringNumber&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringZero&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringMultipleNumbers&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=98c0c355_002D25c1_002D4b22_002D8c52_002Db3a9d9e88488/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateStringZero #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringZero&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringNumber&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringMultpleNumbers&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9e2afdde_002D8ee4_002D4ad1_002D990b_002Daa4d0708bde0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateString #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/daniel.tran/katas/StringCalculator/StringCalculatorTest" Presentation="&amp;lt;StringCalculatorTest&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bbacd522_002D2a24_002D4016_002D842d_002D8c1f84dd64ac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringMultpleNumbers&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringNumber&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringZero&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringMultipleNumbers&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c45fd035_002D05bf_002D401f_002D93aa_002D10426d06749a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateStringZero" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringZero&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringNumber&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringMultpleNumbers&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cb512432_002Dfd7d_002D4f9b_002D8853_002Dcf54965b9a87/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateStringMultpleNumbers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringMultpleNumbers&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringNumber&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringZero&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ddf0758b_002Deee0_002D490a_002D8ee1_002D3bce2d4e2044/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateStringNumber #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringNumber&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e099f8fa_002D8047_002D4e62_002Db7ce_002Df610340465a0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateStringNumber" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringNumber&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1E433994-69BB-4D9F-B151-B635F6089C8E::net5.0::StringCalculator.StringCalculatorShould.CalculateStringZero&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
