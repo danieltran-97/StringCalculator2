@@ -33,9 +33,11 @@ namespace StringCalculator
             
             var inputList = input.Replace("\n",",").Split(",");
 
-            foreach (var number in inputList)
+            foreach (var numberString in inputList)
             {
-                sum += int.Parse(number);
+                var number = int.Parse(numberString);
+                
+                sum += number;
             }
 
             return sum;
